@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![veronica2550's GitHub stats](https://github-readme-stats.vercel.app/api?username=veronica2550)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **veronica2550/veronica2550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
